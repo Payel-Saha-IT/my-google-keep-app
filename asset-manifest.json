@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-google-keep-app/static/css/main.5eb98991.css",
+    "main.css": "/my-google-keep-app/static/css/main.8e82309a.css",
     "main.js": "/my-google-keep-app/static/js/main.3b9c3aaa.js",
     "index.html": "/my-google-keep-app/index.html",
-    "main.5eb98991.css.map": "/my-google-keep-app/static/css/main.5eb98991.css.map",
+    "main.8e82309a.css.map": "/my-google-keep-app/static/css/main.8e82309a.css.map",
     "main.3b9c3aaa.js.map": "/my-google-keep-app/static/js/main.3b9c3aaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb98991.css",
+    "static/css/main.8e82309a.css",
     "static/js/main.3b9c3aaa.js"
   ]
 }
